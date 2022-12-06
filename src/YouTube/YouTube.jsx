@@ -25,7 +25,7 @@ function YouTube() {
         <div className="container">
             <div className="row h-100 align-items-center justify-content-center text-center">
             <div className="col-12">
-                <div className="title-wraper bold video-title-wrapper">
+                <div className="title-wrapper bold video-title-wrapper">
                 Latest Videos
                 </div>
               </div>
