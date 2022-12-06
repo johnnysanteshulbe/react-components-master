@@ -1,0 +1,102 @@
+.youtubeVideosWrapper {
+    background: #fff;
+    padding: 50px;
+}
+.singleVideoWrapper {
+    background: #f3f2f3;
+    box-shadow: 4px 0px 13px rgba(158, 158, 158, 0.12);
+    margin-bottom: 30px;
+    max-height: 393px;
+    overflow: hidden;
+}
+.videoInfoWrapper {
+    padding: 10px 20px;
+    text-align: left;
+}
+.videoDesc {
+    font-size: .6em;
+    color: #676767;
+}
+.videoTitle {
+    font-weight: 700;
+    line-height: 1.2em;
+}
+.videoTitle a {
+    color: #000;
+}
+.video-title-wrapper {
+    padding: 50px 0;
+    font-size: 60px;
+    font-weight: bold;
+
+  }
+  .active {
+    font-weight: bold;
+    color: #0071e3 !important;
+  }
+
+
+  
+
+/* AIzaSyCST3yUY2MmR5vTOMIrvN4iOmYCxn-RXVw */
+/* AIzaSyDDpgJltLasw0nFPTH9bEluvRcIsH3zyDI */
+/* AIzaSyB80X8Vayk8s037iH6XVnlySgL059Ln6Z0 */
+
+/* https://www.googleapis.com/youtube/v3/search?key=AIzaSyDDpgJltLasw0nFPTH9bEluvRcIsH3zyDI&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=6 */
+
+
+
+/* 
+"https://www.googleapis.com/youtube/v3/search?key=AIzaSyBv_MveWxmNKF-fAAEDIy3qAIWtt0-YM1M&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=6" 
+*/
+
+/* information channels to get channel id*/
+/* https://www.googleapis.com/youtube/v3/channels?key={YOUR_API_KEY}&forUsername={CHANNEL_NAME}&part=id */
+
+
+/* https://www.googleapis.com/youtube/v3/channels?key=AIzaSyDDpgJltLasw0nFPTH9bEluvRcIsH3zyDI&forUsername=apple&part=id */
+
+/* UCE_M8A5yxnLfW0KghEeajjw */
+
+
+
+/* 
+https://www.googleapis.com/youtube/v3/search?
+
+key=
+
+{YOUR_API_KEY}
+
+&
+
+channelId=
+
+{channel_id_here}
+
+
+&part=snippet,id&order=date&maxResults=10
+*/
+
+
+
+
+/* 
+
+
+"https://www.googleapis.com/youtube/v3/search?
+
+key=
+
+AIzaSyBv_MveWxmNKF-fAAEDIy3qAIWtt0-YM1M
+
+&
+
+channelId=
+
+UCE_M8A5yxnLfW0KghEeajjw&part
+
+
+=snippet,id&order=date&maxResults=6"
+
+
+*/
